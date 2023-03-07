@@ -1,0 +1,5 @@
+Un array SIEMPRE va a iniciar en la posición 0.
+.
+En lenguajes como C tú tienes que definir la cantidad de memoria que quieres reservar para ese array. Esto hace que su uso sea eficiente, pues la computadora no tiene que estar reservando más espacios “por si a caso”.
+.
+Un array dinámico reservará un poco más de espacio del que necesita, y cuando este espacio se acabe reservará aún más espacio. Recuerda que la computadora tiene que buscar slots consecutivos disponibles para asignar ese espacio y mientras más información haya guardada más difícil será encontrar este espacio.

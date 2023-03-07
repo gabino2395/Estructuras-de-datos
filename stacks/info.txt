@@ -1,0 +1,7 @@
+Un stack basicamente es una pila, es decir, algo que estás apilando, lo primero que entra se queda hasta abajo y lo último que entra se queda hasta arriba, de ahí su nombre LIFO, Las In (El último que entra), First Out (Es el primero que sale).
+
+
+Tenemos diferentes métodos para esta estructura de datos
+Pop ⇒ Remover el último elemento
+Push ⇒ Agregar un elemento al final
+Peek ⇒ Tomar el último elemento de la línea

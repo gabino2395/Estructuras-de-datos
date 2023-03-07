@@ -1,0 +1,10 @@
+Una estructura de dato nos permite ordenar de cierta forma la información mediante un lenguaje de programación.
+Las estrucutras de  datos son
+colecciones de valores, que nos
+permite de una forma en particular
+organizar los datos para que
+puedan ser utilizados
+eficientemente
+.
+¿Cuál estructura de datos es mejor?
+Ninguna es mejor que otra, todo depende de lo que necesites hacer una se adaptará mejor que la otra para tu problema en cuestión. El objetivo es conocerlas y atacar el problema con la estructura que mejor se te adapte.

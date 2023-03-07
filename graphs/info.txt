@@ -1,0 +1,7 @@
+Aquí si les debo gif jaja, pero que el nombre no te de miedo, es algo muy sencillo:
+.
+Básicamente un grafo es una serie de nodos interconectados unos con otros donde los dirigidos ya tienen una ruta específica de cuál nodo se conecta con cuál y los no dirigidos son prácticamente de doble sentido.
+.
+También existen los grafos ponderados que básicamente te dicen cuál camino es más “eficiente” para llegar a tu destino.
+.
+Velo como un mapa, estás en uno nodo y ese nodo conoce a otros varios nodos a los que puedes ir, y después de ese nodo puedes ir a otro nodo más que es posible que conozca a uno de los nodos donde ya has estado ^^

@@ -1,0 +1,5 @@
+Linked List son simplemente un conjunto de nodos ordenados que contienen los valores que necesitemos (numbers, strings, boolean, etc). Cada uno tiene un valor y una referencia a un siguiente nodo.
+Un elemento de una linked list (singly) solo conoce al siguiente elemento, pero no conoce al siguiente, es por eso que no te puedes regresar, por eso, si necesitas conocer el valor de un nodo anterior no te queda otra opción más que terminar tu búsqueda y volver a iniciarla. Por eso una linked list no sería la mejor opción para hacer búsqueda de elementos que dependen de otro elemento de la misma linked list.
+
+//doubly linked list
+Una doubly linked list tiene el mismo comportamiento que una simply linked list, pero con la particularidad de que esta SI puede regresar. Aún necesita ir moviéndose una por una, pero ahora si lo desea puede regresar porque ya conoce quién es su elemento anterior y también quién es el siguiente, es decir, ya no es necesario repetir el ciclo.
